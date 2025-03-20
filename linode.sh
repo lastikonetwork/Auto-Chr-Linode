@@ -4,7 +4,7 @@
 sudo apt update
 
 # Download Mikrotik Chr
-wget https://download.mikrotik.com/routeros/6.49.18/chr-6.49.18.img.zip -O chr.img.zip
+wget https://download.mikrotik.com/routeros/7.18.2/chr-7.18.2.img.zip -O chr.img.zip
 
 # Extract image
 gunzip -c chr.img.zip > chr.img
