@@ -13,7 +13,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/lastikonetwork/Auto-Chr-Linod
 ```
 ### Second Step Configure Dashboard
 1. VM mode: paravirtualization
-2. kernel: direct disk
+2. Kernel: direct disk
 3. Block device assignment: /dev/sda
 
 # Enjoy~
