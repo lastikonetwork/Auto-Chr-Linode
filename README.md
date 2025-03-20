@@ -17,3 +17,6 @@ bash <(wget -qO- https://raw.githubusercontent.com/lastikonetwork/Auto-Chr-Linod
 3. Root device assignment: /dev/sda
 
 # Enjoy~
+
+### Renew CHR Key
+/system license renew
